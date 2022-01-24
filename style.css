@@ -11,3 +11,12 @@ body{
 .btn-text{
     color: #3F87F5;
 }
+.btn-bg{
+    background-color: #FDF4FA;
+}
+.hot-item{
+    background-color: #3F87F5;
+    border-radius: 20px;
+    transform: scaleY(1.1);
+    box-shadow: 5px 5px 20px #3F87F5;
+}
